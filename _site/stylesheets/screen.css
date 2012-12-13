@@ -113,7 +113,7 @@ header h1 {
   font-size: 57px;
   line-height: 57px;
   margin-bottom: 40px;
-  letter-spacing: -1.9px;
+  letter-spacing: -2px;
 }
 /* line 52, ../sass/screen.scss */
 header nav {
@@ -155,7 +155,8 @@ header nav ul li a {
 
 /* line 83, ../sass/screen.scss */
 footer {
-  margin-top: 190px;
+  margin-top: 170px;
+  margin-bottom: 20px;
   font-family: "Apercu Light", Calibri, sans-serif;
   font-size-adjust: 0.508;
   font-weight: 200;
@@ -163,7 +164,7 @@ footer {
   font-size: 11px;
 }
 
-/* line 91, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 #home.body p {
   font-size: 46px;
   line-height: 58px;
