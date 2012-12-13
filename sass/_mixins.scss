@@ -1,0 +1,12 @@
+@mixin apercu-light {
+  font-family:"Apercu Light", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight:200;
+  font-style: normal;   
+}
+@mixin apercu-bold {
+  font-family:"Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;   
+  font-style: normal;
+}

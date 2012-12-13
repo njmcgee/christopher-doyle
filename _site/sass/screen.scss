@@ -1,0 +1,96 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+@import "compass/css3";
+@import "mixins";
+
+$white: white;
+$text-color: #00364c;
+
+body {
+  background: $white;
+  color: $text-color;
+  text-align: center;
+  font-family: "ff-meta-serif-web-pro", Georgia, serif;
+}
+
+
+a {
+  text-decoration: none;
+  color: $text-color;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+p {
+  margin-bottom: .4em;
+}
+
+
+header {
+  padding-top: 40px;
+  margin-bottom: 60px;
+  h2 {
+    font-size: 13px;
+    line-height: 17px;
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+  }
+  h1 {
+    @include apercu-bold;
+    font-weight: bold;
+    font-size: 57px;
+    line-height: 57px;
+    margin-bottom: 40px;
+    letter-spacing: -1.9px
+  }
+  nav {
+    position: relative;
+    overflow: hidden;
+    ul {
+      clear:left;
+      float:left;
+      list-style:none;
+      margin:0;
+      padding:0;
+      position:relative;
+      left:50%;
+      text-align:center;
+      li {
+        display:block;
+        float:left;
+        list-style:none;
+        margin:0;
+        padding:0;
+        position:relative;
+        right:50%;
+        a {
+          @include apercu-light;
+          text-transform: uppercase;
+          letter-spacing: .5px;
+          font-size: 11px;
+          margin: 0 7px;
+        }
+      }
+    }
+  }
+}
+footer {
+  margin-top: 190px;
+  @include apercu-light;
+  font-size: 11px;
+}
+
+
+#home.body {
+  p {
+    font-size: 46px;
+    line-height: 58px;
+    letter-spacing: .5px;
+  }
+}

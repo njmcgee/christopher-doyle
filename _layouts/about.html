@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<aside class="about">
+  <div class="well left-nav">
+    <ul class="nav nav-pills nav-stacked">
+      <li class="{% if page.title == 'About' %} active {% endif %}"><a href="/about">About</a></li>
+      <li class="{% if page.title == 'Why It Works' %} active {% endif %}"><a href="/about/why-it-works">Why it Works</a></li>
+      <li class="{% if page.title == 'Sample Lesson' %} active {% endif %}"><a href="/about/sample-lesson">Sample Lesson</a></li>
+      <li class="{% if page.title == 'Lesson Overview' %} active {% endif %}"><a href="/about/lesson-overview">Lesson Overview</a></li>
+      <li class="{% if page.title == 'Products' %} active {% endif %}"><a href="/about/products">Products</a></li>
+      <li class="{% if page.title == 'Testimonials' %} active {% endif %}"><a href="/about/testimonials">Testimonials</a></li>
+      <li class="{% if page.title == 'Faqs' %} active {% endif %}"><a href="/about/faqs">FAQs</a></li>
+      <li class="{% if page.title == 'Contact Us' %} active {% endif %}"><a href="/about/contact-us">Contact Us</a></li>
+    </ul>
+  </div>
+</aside>
+<div class="body about">  
+  {{ content }} 
+</div>
