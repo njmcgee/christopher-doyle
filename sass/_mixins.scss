@@ -10,3 +10,8 @@
   font-weight: bold;   
   font-style: normal;
 }
+@mixin large-text {
+  font-size: 46px;
+  line-height: 58px;
+  letter-spacing: .5px;
+}

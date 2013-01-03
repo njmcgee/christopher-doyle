@@ -30,6 +30,14 @@ p {
   margin-bottom: .4em;
 }
 
+h3 {
+  @include large-text;
+}
+
+i {
+  font-style: italic;
+}
+
 
 header {
   padding-top: 40px;
@@ -93,18 +101,16 @@ footer {
 
 #home.body {
   p {
-    font-size: 46px;
-    line-height: 58px;
-    letter-spacing: .5px;
+    @include large-text;
   }
 }
 
-.wf-apercubold-n7-active h1 a {
+.wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
   visibility: visible !important;
 }
-.wf-apercuregular-n4-active nav li a {
+.wf-apercuregular-n4-active nav li a, .wf-apercuregular-n4-inactive nav li a {
   visibility: visible !important;
 }
-.wf-apercuregular-n4-active footer {
+.wf-apercuregular-n4-active footer, .wf-apercuregular-n4-inactive footer {
   visibility: visible !important;
 }

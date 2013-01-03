@@ -90,19 +90,31 @@ p {
   margin-bottom: .4em;
 }
 
-/* line 34, ../sass/screen.scss */
+/* line 33, ../sass/screen.scss */
+h3 {
+  font-size: 46px;
+  line-height: 58px;
+  letter-spacing: .5px;
+}
+
+/* line 37, ../sass/screen.scss */
+i {
+  font-style: italic;
+}
+
+/* line 42, ../sass/screen.scss */
 header {
   padding-top: 40px;
   margin-bottom: 60px;
 }
-/* line 37, ../sass/screen.scss */
+/* line 45, ../sass/screen.scss */
 header h2 {
   font-size: 13px;
   line-height: 17px;
   margin: 0 auto;
   margin-bottom: 40px;
 }
-/* line 43, ../sass/screen.scss */
+/* line 51, ../sass/screen.scss */
 header h1 {
   font-family: "Apercu Bold", Calibri, sans-serif;
   font-size-adjust: 0.508;
@@ -114,12 +126,12 @@ header h1 {
   margin-bottom: 40px;
   letter-spacing: -2px;
 }
-/* line 51, ../sass/screen.scss */
+/* line 59, ../sass/screen.scss */
 header nav {
   position: relative;
   overflow: hidden;
 }
-/* line 54, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 header nav ul {
   clear: left;
   float: left;
@@ -130,7 +142,7 @@ header nav ul {
   left: 50%;
   text-align: center;
 }
-/* line 63, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 header nav ul li {
   display: block;
   float: left;
@@ -140,7 +152,7 @@ header nav ul li {
   position: relative;
   right: 50%;
 }
-/* line 71, ../sass/screen.scss */
+/* line 79, ../sass/screen.scss */
 header nav ul li a {
   font-family: "Apercu Regular", Calibri, sans-serif;
   font-size-adjust: 0.508;
@@ -151,13 +163,13 @@ header nav ul li a {
   font-size: 11px;
   margin: 0 7px;
 }
-/* line 77, ../sass/screen.scss */
+/* line 85, ../sass/screen.scss */
 header nav ul li a.active {
   text-decoration: underline;
   cursor: default;
 }
 
-/* line 86, ../sass/screen.scss */
+/* line 94, ../sass/screen.scss */
 footer {
   margin-top: 170px;
   margin-bottom: 20px;
@@ -168,24 +180,24 @@ footer {
   font-size: 11px;
 }
 
-/* line 95, ../sass/screen.scss */
+/* line 103, ../sass/screen.scss */
 #home.body p {
   font-size: 46px;
   line-height: 58px;
   letter-spacing: .5px;
 }
 
-/* line 102, ../sass/screen.scss */
-.wf-apercubold-n7-active h1 a {
-  visibility: visible !important;
-}
-
-/* line 105, ../sass/screen.scss */
-.wf-apercuregular-n4-active nav li a {
-  visibility: visible !important;
-}
-
 /* line 108, ../sass/screen.scss */
-.wf-apercuregular-n4-active footer {
+.wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
+  visibility: visible !important;
+}
+
+/* line 111, ../sass/screen.scss */
+.wf-apercuregular-n4-active nav li a, .wf-apercuregular-n4-inactive nav li a {
+  visibility: visible !important;
+}
+
+/* line 114, ../sass/screen.scss */
+.wf-apercuregular-n4-active footer, .wf-apercuregular-n4-inactive footer {
   visibility: visible !important;
 }
