@@ -188,16 +188,78 @@ footer {
 }
 
 /* line 108, ../sass/screen.scss */
+#profile {
+  width: 720px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+/* line 112, ../sass/screen.scss */
+#profile h3 {
+  font-size: 22px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+/* line 117, ../sass/screen.scss */
+#profile .bio, #profile .accolades {
+  text-align: left;
+  width: 345px;
+  float: left;
+}
+/* line 122, ../sass/screen.scss */
+#profile .bio {
+  margin-right: 30px;
+}
+/* line 125, ../sass/screen.scss */
+#profile p {
+  font-size: 14px;
+  line-height: 19px;
+  margin-bottom: 19px;
+}
+/* line 130, ../sass/screen.scss */
+#profile .accolades {
+  font-size: 11px;
+}
+/* line 132, ../sass/screen.scss */
+#profile .accolades h4, #profile .accolades h5 {
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  font-family: "Apercu Bold", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: bold;
+  font-style: normal;
+}
+/* line 137, ../sass/screen.scss */
+#profile .accolades h4 {
+  margin-bottom: 20px;
+}
+/* line 140, ../sass/screen.scss */
+#profile .accolades h5 {
+  margin-bottom: 3px;
+}
+/* line 143, ../sass/screen.scss */
+#profile .accolades ul {
+  font-family: "Apercu Regular", Calibri, sans-serif;
+  font-size-adjust: 0.508;
+  font-weight: normal;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+/* line 146, ../sass/screen.scss */
+#profile .accolades ul li {
+  margin-bottom: 3px;
+}
+
+/* line 153, ../sass/screen.scss */
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
   visibility: visible !important;
 }
 
-/* line 111, ../sass/screen.scss */
+/* line 156, ../sass/screen.scss */
 .wf-apercuregular-n4-active nav li a, .wf-apercuregular-n4-inactive nav li a {
   visibility: visible !important;
 }
 
-/* line 114, ../sass/screen.scss */
+/* line 159, ../sass/screen.scss */
 .wf-apercuregular-n4-active footer, .wf-apercuregular-n4-inactive footer {
   visibility: visible !important;
 }

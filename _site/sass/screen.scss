@@ -105,6 +105,51 @@ footer {
   }
 }
 
+#profile {
+  width: 720px;
+  margin: 0 auto;
+  overflow: hidden;
+  h3 {
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  .bio, .accolades {
+    text-align: left;
+    width: 345px;
+    float: left;
+  }
+  .bio {
+    margin-right: 30px
+  }
+  p {
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 19px;
+  }
+  .accolades {    
+    font-size: 11px;
+    h4, h5 {
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      @include apercu-bold;     
+    } 
+    h4 {
+      margin-bottom: 20px;
+    }
+    h5 {
+      margin-bottom: 3px;
+    }
+    ul {
+      @include apercu-light;   
+      margin-bottom: 20px;
+      li {
+        margin-bottom: 3px;
+      }
+    }    
+  }
+}
+
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
   visibility: visible !important;
 }
