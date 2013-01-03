@@ -1,8 +1,11 @@
 ---
-layout: home
+layout: default
 permalink: /
 meta_keywords: 
 meta_description: 
 ---
 
-Doyle
+<div class="body" id="home">
+  <p>Hello.</p>
+  <p>We are an independent,<br/>collaborative consultancy<br/>based in Sydney, Australia.
+</div>

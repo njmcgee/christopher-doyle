@@ -37,7 +37,6 @@ header {
   h2 {
     font-size: 13px;
     line-height: 17px;
-    width: 250px;
     margin: 0 auto;
     margin-bottom: 40px;
   }
@@ -75,6 +74,10 @@ header {
           letter-spacing: .5px;
           font-size: 11px;
           margin: 0 7px;
+          &.active {
+            text-decoration: underline;
+            cursor: default;
+          }
         }
       }
     }
@@ -94,4 +97,14 @@ footer {
     line-height: 58px;
     letter-spacing: .5px;
   }
+}
+
+.wf-apercubold-n7-active h1 a {
+  visibility: visible !important;
+}
+.wf-apercuregular-n4-active nav li a {
+  visibility: visible !important;
+}
+.wf-apercuregular-n4-active footer {
+  visibility: visible !important;
 }
