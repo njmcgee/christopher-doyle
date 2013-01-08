@@ -11,6 +11,6 @@ meta_description:
     To make things simpler, smarter,<br/>
     more helpful, more beautiful and<br/>
     more fun. To think before we act.<br/>
-    To work <i>with</i> people, not <i>for</i> people.<br/>
+    To work with people, not for people.<br/>
     To be part of change.
 </div>
