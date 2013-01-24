@@ -7,5 +7,5 @@ meta_description:
 
 <div class="body" id="home">
   <p>Hello.</p>
-  <p>We are an independent,<br/>collaborative consultancy<br/>based in Sydney, Australia.
+  <p>We are an independent,<br/>collaborative design company<br/>specialising in brand,<br/>art direction and design.
 </div>

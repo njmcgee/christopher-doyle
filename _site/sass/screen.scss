@@ -7,16 +7,15 @@
 @import "compass/css3";
 @import "mixins";
 
-$white: white;
-$text-color: #00364c;
+$background: #00364c;
+$text-color: #e8ebe7;
 
 body {
-  background: $white;
+  background: $background;
   color: $text-color;
   text-align: center;
   font-family: "ff-meta-serif-web-pro", Georgia, serif;
 }
-
 
 a {
   text-decoration: none;
@@ -40,21 +39,22 @@ i {
 
 
 header {
-  padding-top: 40px;
-  margin-bottom: 60px;
+  padding-top: 57px;
+  margin-bottom: 70px;
   h2 {
     font-size: 13px;
     line-height: 17px;
     margin: 0 auto;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
   }
   h1 {
     @include apercu-bold;
     font-weight: bold;
-    font-size: 57px;
+    font-size: 42px;
     line-height: 57px;
-    margin-bottom: 40px;
-    letter-spacing: -2px;
+    margin-bottom: 35px;
+    letter-spacing: -1px;
+    text-shadow: 0 0 0 $background;
   }
   nav {
     position: relative;
@@ -92,7 +92,7 @@ header {
   }
 }
 footer {
-  margin-top: 170px;
+  margin-top: 60px;
   margin-bottom: 20px;
   @include apercu-light;
   font-size: 11px;
