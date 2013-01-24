@@ -10,6 +10,10 @@
 $background: #00364c;
 $text-color: #e8ebe7;
 
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
   background: $background;
   color: $text-color;
@@ -54,7 +58,9 @@ header {
     line-height: 57px;
     margin-bottom: 35px;
     letter-spacing: -1px;
-    text-shadow: 0 0 0 $background;
+    a:hover {
+      text-decoration: none;
+    }
   }
   nav {
     position: relative;
