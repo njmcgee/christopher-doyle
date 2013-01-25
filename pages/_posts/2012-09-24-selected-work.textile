@@ -5,5 +5,45 @@ meta_keywords:
 title: Selected work
 meta_description: 
 ---
-
-Selected Work
+<div id="portfolio">
+  <div id="accordion">
+    <h3>The Jezebels</h3>
+    <div>
+      <div class="flexslider">
+        <ul class="slides">
+          <li>
+            <img src="/images/jez-01.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-02.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-03.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-04.jpg" />
+          </li>
+        </ul>
+      </div>
+    </div>
+    <h3>Number two</h3>
+    <div>
+      <div class="flexslider">
+        <ul class="slides">
+          <li>
+            <img src="/images/jez-01.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-02.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-03.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-04.jpg" />
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div><!-- /accordion -->
+</div>

@@ -156,6 +156,14 @@ footer {
   }
 }
 
+#portfolio {
+  width: 1050px;
+  margin: 0 auto;
+}
+.slides li {
+  // height: 700px !important;
+}
+
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
   visibility: visible !important;
 }
@@ -164,4 +172,12 @@ footer {
 }
 .wf-apercuregular-n4-active footer, .wf-apercuregular-n4-inactive footer {
   visibility: visible !important;
+}
+
+.flex-control-paging li a.flex-active {
+  background: $text-color;
+}
+.flexslider {
+  border: none;
+  @include single-box-shadow(none);
 }
