@@ -170,10 +170,6 @@ footer {
 }
 
 #portfolio {
-  // width: 1050px;
-  // margin: 0 auto;
-  max-width: 1050px;
-  margin: 0 auto;
   @include apercu-light;
   font-size: 13px;
   line-height: 18px;
@@ -215,7 +211,9 @@ footer {
 }
 .flexslider {
   border: none;
-  @include single-box-shadow(none);
+  @include single-box-shadow(none);  
+  max-width: 1050px;
+  margin: 0 auto;
 }
 .clearfix {
   clear: both;

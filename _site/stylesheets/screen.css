@@ -277,8 +277,6 @@ footer {
 
 /* line 172, ../sass/screen.scss */
 #portfolio {
-  max-width: 1050px;
-  margin: 0 auto;
   font-family: "Apercu Regular", Calibri, sans-serif;
   font-size-adjust: 0.508;
   font-weight: normal;
@@ -286,7 +284,7 @@ footer {
   font-size: 13px;
   line-height: 18px;
 }
-/* line 180, ../sass/screen.scss */
+/* line 176, ../sass/screen.scss */
 #portfolio h3 {
   text-transform: uppercase;
   letter-spacing: .5px;
@@ -295,53 +293,55 @@ footer {
   line-height: 13px;
   margin-bottom: 10px;
 }
-/* line 187, ../sass/screen.scss */
+/* line 183, ../sass/screen.scss */
 #portfolio h3:hover {
   text-decoration: underline;
   cursor: pointer;
 }
-/* line 192, ../sass/screen.scss */
+/* line 188, ../sass/screen.scss */
 #portfolio .ui-accordion-content {
   padding-bottom: 60px;
 }
-/* line 195, ../sass/screen.scss */
+/* line 191, ../sass/screen.scss */
 #portfolio .flexslider {
   margin-bottom: 50px;
 }
-/* line 198, ../sass/screen.scss */
+/* line 194, ../sass/screen.scss */
 #portfolio .flex-viewport {
   margin-bottom: 80px;
 }
 
-/* line 203, ../sass/screen.scss */
+/* line 199, ../sass/screen.scss */
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
   visibility: visible !important;
 }
 
-/* line 206, ../sass/screen.scss */
+/* line 202, ../sass/screen.scss */
 .wf-apercuregular-n4-active nav li a, .wf-apercuregular-n4-inactive nav li a {
   visibility: visible !important;
 }
 
-/* line 209, ../sass/screen.scss */
+/* line 205, ../sass/screen.scss */
 .wf-apercuregular-n4-active footer, .wf-apercuregular-n4-inactive footer {
   visibility: visible !important;
 }
 
-/* line 213, ../sass/screen.scss */
+/* line 209, ../sass/screen.scss */
 .flex-control-paging li a.flex-active {
   background: #e8ebe7;
 }
 
-/* line 216, ../sass/screen.scss */
+/* line 212, ../sass/screen.scss */
 .flexslider {
   border: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
+  max-width: 1050px;
+  margin: 0 auto;
 }
 
-/* line 220, ../sass/screen.scss */
+/* line 218, ../sass/screen.scss */
 .clearfix {
   clear: both;
 }
