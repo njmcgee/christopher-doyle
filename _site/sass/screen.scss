@@ -170,7 +170,9 @@ footer {
 }
 
 #portfolio {
-  width: 1050px;
+  // width: 1050px;
+  // margin: 0 auto;
+  max-width: 1050px;
   margin: 0 auto;
   @include apercu-light;
   font-size: 13px;
@@ -217,14 +219,4 @@ footer {
 }
 .clearfix {
   clear: both;
-}
-
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-/* Styles */
-  #portfolio {
-    width: 100%; 
-  }
 }
