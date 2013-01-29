@@ -345,3 +345,12 @@ footer {
 .clearfix {
   clear: both;
 }
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* Styles */
+  /* line 227, ../sass/screen.scss */
+  #portfolio {
+    width: 100%;
+  }
+}
