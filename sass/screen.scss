@@ -159,9 +159,30 @@ footer {
 #portfolio {
   width: 1050px;
   margin: 0 auto;
-}
-.slides li {
-  // height: 700px !important;
+  @include apercu-light;
+  font-size: 13px;
+  line-height: 18px;
+  h3 {        
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    outline: none;    
+    font-size: 13px;
+    line-height: 13px;
+    margin-bottom: 10px;
+    &:hover {
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+  .ui-accordion-content {
+    padding-bottom: 60px;
+  }
+  .flexslider {
+    margin-bottom: 50px;
+  }
+  .flex-viewport {
+    margin-bottom: 80px;
+  }
 }
 
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
@@ -180,4 +201,7 @@ footer {
 .flexslider {
   border: none;
   @include single-box-shadow(none);
+}
+.clearfix {
+  clear: both;
 }
