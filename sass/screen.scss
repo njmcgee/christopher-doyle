@@ -35,10 +35,23 @@ p {
 
 h3 {
   @include large-text;
+  &.intro {
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
 }
 
 i {
   font-style: italic;
+}
+
+dt {
+  font-style: italic;
+  margin-bottom: 3px;
+}
+dd {
+  margin-bottom: 20px;
 }
 
 
