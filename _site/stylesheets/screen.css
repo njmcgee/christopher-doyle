@@ -310,33 +310,28 @@ footer {
 #portfolio .flex-viewport {
   margin-bottom: 80px;
 }
-/* line 196, ../sass/screen.scss */
-#portfolio .flex-viewport img {
-  max-width: 100%;
-  height: auto;
-}
 
-/* line 203, ../sass/screen.scss */
+/* line 199, ../sass/screen.scss */
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
   visibility: visible !important;
 }
 
-/* line 206, ../sass/screen.scss */
+/* line 202, ../sass/screen.scss */
 .wf-apercuregular-n4-active nav li a, .wf-apercuregular-n4-inactive nav li a {
   visibility: visible !important;
 }
 
-/* line 209, ../sass/screen.scss */
+/* line 205, ../sass/screen.scss */
 .wf-apercuregular-n4-active footer, .wf-apercuregular-n4-inactive footer {
   visibility: visible !important;
 }
 
-/* line 213, ../sass/screen.scss */
+/* line 209, ../sass/screen.scss */
 .flex-control-paging li a.flex-active {
   background: #e8ebe7;
 }
 
-/* line 216, ../sass/screen.scss */
+/* line 212, ../sass/screen.scss */
 .flexslider {
   border: none;
   -webkit-box-shadow: none;
@@ -346,7 +341,7 @@ footer {
   margin: 0 auto;
 }
 
-/* line 222, ../sass/screen.scss */
+/* line 218, ../sass/screen.scss */
 .clearfix {
   clear: both;
 }
