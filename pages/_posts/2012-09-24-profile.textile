@@ -7,9 +7,9 @@ meta_description:
 ---
 
 <div class="body" id="profile">
-  <h3>Christopher Doyle & Co. is the creative consultancy of Sydney based Creative Director, Christopher Doyle. No surprises there.</h3>
+  <h3>Christopher Doyle &amp; Co. is the design practice of Sydney based Creative Director, Christopher Doyle. No surprises there.</h3>
   <div class="bio">
-    <p>An internationally recognised designer with over ten years experience in brand and design Chris has worked at some of Australia&rsquo;s leading brand and design agencies. His work has won numerous local and international awards., been used as the basis for education material in Europe and the United States and appeared in feature articles for Creative Review and Grafik Magazine.</p>
+    <p>An internationally recognised designer with over ten years experience in brand and design, Chris has worked at some of Australia&rsquo;s leading brand and design agencies. His work has won numerous local and international awards, been used as the basis for educational material in Europe and the United States and appeared in feature articles for Creative Review and Grafik Magazine.</p>
     <p>In 2009 he was named one of Indesign Magazine&rsquo;s Top Ten Faces and Forces of Design and in 2011 his work was selected to be part of Graphic Design: Now in Production (GD:NIP) &ndash; a joint exhibition with Cooper-Hewitt and the National Design Museum in America.</p>
     <p>He has lectured at AGIdeas (Melbourne), Creative Mornings (Sydney), Billy Blue College of Design (Sydney) and has sat on the New South Wales council for the Australian Graphic Design Association (AGDA).</p>
     <p>He has made written contributions to Desktop Magazine, Design Assembly, Australian Creative and Process Journal and has served as a judge at D&amp;AD and AWARD.</p>
@@ -52,14 +52,14 @@ meta_description:
     </ul>
     <h5>D&amp;AD 2009</h5>
     <ul>
-      <li>Yellow Pencil (Writing for Design) &ndash; Christopher Doyle ID Guidelines</li>
-      <li>In Book (Branding) &ndash; Christopher Doyle Identity Guidelines 2008</li>
-      <li>In Book (Graphic Design) &ndash; Christopher Doyle ID Guidelines</li>
+      <li>Yellow Pencil (Writing for Design) &ndash; Christopher Doyle Identity Guidelines</li>
+      <li>In Book (Branding) &ndash; Christopher Doyle Identity Guidelines</li>
+      <li>In Book (Graphic Design) &ndash; Christopher Doyle Identity Guidelines</li>
     </ul>
     <h5>AGDA 2008</h5>
     <ul>
       <li>Pinnacle &ndash; Christopher Doyle Identity</li>
-      <li>Distinction &ndash;Christopher Doyle ID Guidelines</li>
+      <li>Distinction &ndash;Christopher Doyle Identity Guidelines</li>
       <li>Distinction &ndash; Bob Gill Australian Lecture Tour Posters</li>
       <li>Finalist &ndash; Sydney Writers&rsquo; Festival 2007</li>
       <li>Finalist &ndash; STW Group Annual Report</li>
