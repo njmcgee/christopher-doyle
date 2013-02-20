@@ -190,10 +190,21 @@ footer {
   }
   .flexslider {
     margin-bottom: 50px;
+    max-height: 700px;
   }
   .flex-viewport {
     margin-bottom: 80px;
   }
+  .flex-control-nav {
+    display: none;
+  }
+}
+.work-text {
+  max-width: 550px;
+  margin: 0 auto;
+}
+.solo {
+  margin-bottom: 50px;
 }
 
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {

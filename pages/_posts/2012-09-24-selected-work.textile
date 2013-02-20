@@ -23,69 +23,147 @@ meta_description:
           <li>
             <img src="/images/jez-04.jpg" />
           </li>
+          <li>
+            <img src="/images/jez-05.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-06.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-07.jpg" />
+          </li>
+          <li>
+            <img src="/images/jez-08.jpg" />
+          </li>
         </ul>
       </div>
-      <p>Photography, art direction and design for Aria-nominated Sydney band,<br/>The Jezabels. Additional photography by Pierre Toussaint and Robbie Powell.</p>
+      <p class="work-text">Art direction and design for Aria award winning Sydney band, The Jezabels.<br/>Photography by Christopher Doyle, Pierre Toussaint and Robbie Powell.</p>
     </div>
     <h3>Everything Begins</h3>
     <div>
       <div class="flexslider">
         <ul class="slides">
           <li>
-            <img src="/images/jez-01.jpg" />
+            <img src="/images/eb01.jpg" />
           </li>
           <li>
-            <img src="/images/jez-02.jpg" />
+            <img src="/images/eb02.jpg" />
           </li>
           <li>
-            <img src="/images/jez-03.jpg" />
-          </li>
-          <li>
-            <img src="/images/jez-04.jpg" />
+            <img src="/images/eb03.jpg" />
           </li>
         </ul>
       </div>
-      <p>Photography, art direction and design for Aria-nominated Sydney band,<br/>The Jezabels. Additional photography by Pierre Toussaint and Robbie Powell.</p>
+      <p class="work-text">Naming, logomark and site design for Sydney based online emporium of goodness.</p>
     </div>
     <h3>Chet Faker</h3>
     <div>
       <div class="flexslider">
         <ul class="slides">
           <li>
-            <img src="/images/jez-01.jpg" />
+            <img src="/images/cf01.jpg" />
           </li>
           <li>
-            <img src="/images/jez-02.jpg" />
+            <img src="/images/cf02.jpg" />
           </li>
           <li>
-            <img src="/images/jez-03.jpg" />
+            <img src="/images/cf03.jpg" />
           </li>
           <li>
-            <img src="/images/jez-04.jpg" />
+            <img src="/images/cf04.jpg" />
+          </li>
+          <li>
+            <img src="/images/cf05.jpg" />
           </li>
         </ul>
       </div>
-      <p>Photography, art direction and design for Aria-nominated Sydney band,<br/>The Jezabels. Additional photography by Pierre Toussaint and Robbie Powell.</p>
+      <p class="work-text">Art direction and design for Melbourne musician Chet Faker&#039;s debut EP.<br/>Photography by Jefton Sungkar.</p>
     </div>
     <h3>Bell Shakespeare 2012 Season</h3>
     <div>
       <div class="flexslider">
         <ul class="slides">
           <li>
-            <img src="/images/jez-01.jpg" />
+            <img src="/images/bell01.jpg" />
           </li>
           <li>
-            <img src="/images/jez-02.jpg" />
+            <img src="/images/bell02.jpg" />
           </li>
           <li>
-            <img src="/images/jez-03.jpg" />
+            <img src="/images/bell03.jpg" />
           </li>
           <li>
-            <img src="/images/jez-04.jpg" />
+            <img src="/images/bell04.jpg" />
+          </li>
+          <li>
+            <img src="/images/bell05.jpg" />
           </li>
         </ul>
       </div>
-      <p>Photography, art direction and design for Aria-nominated Sydney band,<br/>The Jezabels. Additional photography by Pierre Toussaint and Robbie Powell.</p>
+      <p class="work-text">Art Direction Typography and Design for Bell Shakespeare&#039;s 2012 Season.<br/>Designed with Joao Peres at Interbrand, Sydney.</p>
+    </div>
+    <h3>New Theatre</h3>
+    <div>
+      <div class="flexslider">
+        <ul class="slides">
+          <li>
+            <img src="/images/nt01.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt02.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt03.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt04.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt05.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt06.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt07.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt08.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt09.jpg" />
+          </li>
+          <li>
+            <img src="/images/nt10.jpg" />
+          </li>
+        </ul>
+      </div>
+      <p class="work-text">Identity design and season collateral for Sydney's oldest independent theatre.<br/>Designed with Eric Ng, Diana Chirilas and Mike Rigby at Interbrand, Sydney.</p>
+    </div>
+    <h3>Cloak and Dagger</h3>
+    <div>
+      <div class="flexslider">
+        <ul class="slides">
+          <li>
+            <img src="/images/cd01.jpg" />
+          </li>
+          <li>
+            <img src="/images/cd02.jpg" />
+          </li>
+          <li>
+            <img src="/images/cd03.jpg" />
+          </li>
+          <li>
+            <img src="/images/cd04.jpg" />
+          </li>
+        </ul>
+      </div>
+      <p class="work-text">Addressing the standard hurdles of changing jobs &ndash; secret meetings, awkward phone calls and absolute discretion &ndash; we conceived an identity that avoids all reference to recruitment whatsoever. Cloak &amp; Dagger: online emporium of coats and knives (and jobs).<br/>Designed with Jefton Sungkar at Interbrand, Sydney.</p>
+    </div>
+    <h3>Desktop Magazine</h3>
+    <div>
+      <img class="solo" src="/images/d01.jpg" />
+      <p class="work-text">A rotatable cover for Desktop Magazine's Music issue.</p>
     </div>
   </div><!-- /accordion -->
 </div>
