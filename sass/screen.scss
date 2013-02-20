@@ -189,11 +189,8 @@ footer {
     padding-bottom: 60px;
   }
   .flexslider {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     max-height: 700px;
-  }
-  .flex-viewport {
-    margin-bottom: 80px;
   }
   .flex-control-nav {
     display: none;
@@ -203,8 +200,11 @@ footer {
   max-width: 550px;
   margin: 0 auto;
 }
-.solo {
-  margin-bottom: 50px;
+.solo {  
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
 }
 
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {

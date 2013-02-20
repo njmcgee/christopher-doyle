@@ -304,27 +304,26 @@ footer {
 }
 /* line 191, ../sass/screen.scss */
 #portfolio .flexslider {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   max-height: 700px;
 }
 /* line 195, ../sass/screen.scss */
-#portfolio .flex-viewport {
-  margin-bottom: 80px;
-}
-/* line 198, ../sass/screen.scss */
 #portfolio .flex-control-nav {
   display: none;
 }
 
-/* line 202, ../sass/screen.scss */
+/* line 199, ../sass/screen.scss */
 .work-text {
   max-width: 550px;
   margin: 0 auto;
 }
 
-/* line 206, ../sass/screen.scss */
+/* line 203, ../sass/screen.scss */
 .solo {
-  margin-bottom: 50px;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
 }
 
 /* line 210, ../sass/screen.scss */
