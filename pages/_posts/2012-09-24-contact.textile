@@ -6,7 +6,6 @@ title: Contact
 meta_description: 
 ---
 
-<h3 class="intro">For commissions, collaboration or consultation, please get in touch.</h3>
 <dl>
   <dt>Email:</dt>
   <dd><a href="mailto:hello@christopherdoyle.co">hello@christopherdoyle.co</a></dd>

@@ -294,7 +294,7 @@ meta_description:
           </li>
         </ul>
       </div>
-      <p class="work-text">Posters for a Newtown based independent short film festival.</p>
+      <p class="work-text">Logomark for Brisbane's CBD.<br/>Designed at Interbrand, Sydney.</p>
     </div>
   </div><!-- /accordion -->
 </div>
