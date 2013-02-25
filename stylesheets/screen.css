@@ -186,7 +186,7 @@ header nav ul li a {
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: .5px;
-  font-size: 11px;
+  font-size: 13px;
   margin: 0 7px;
 }
 /* line 104, ../sass/screen.scss */
@@ -326,27 +326,33 @@ footer {
   margin-bottom: 30px;
 }
 
-/* line 210, ../sass/screen.scss */
+/* line 212, ../sass/screen.scss */
+body.Contact p {
+  margin-bottom: 18px;
+  line-height: 18px;
+}
+
+/* line 219, ../sass/screen.scss */
 .wf-apercubold-n7-active h1 a, .wf-apercubold-n7-inactive h1 a {
   visibility: visible !important;
 }
 
-/* line 213, ../sass/screen.scss */
+/* line 222, ../sass/screen.scss */
 .wf-apercuregular-n4-active nav li a, .wf-apercuregular-n4-inactive nav li a {
   visibility: visible !important;
 }
 
-/* line 216, ../sass/screen.scss */
+/* line 225, ../sass/screen.scss */
 .wf-apercuregular-n4-active footer, .wf-apercuregular-n4-inactive footer {
   visibility: visible !important;
 }
 
-/* line 220, ../sass/screen.scss */
+/* line 229, ../sass/screen.scss */
 .flex-control-paging li a.flex-active {
   background: #e8ebe7;
 }
 
-/* line 223, ../sass/screen.scss */
+/* line 232, ../sass/screen.scss */
 .flexslider {
   border: none;
   -webkit-box-shadow: none;
@@ -356,7 +362,7 @@ footer {
   margin: 0 auto;
 }
 
-/* line 229, ../sass/screen.scss */
+/* line 238, ../sass/screen.scss */
 .clearfix {
   clear: both;
 }

@@ -37,7 +37,7 @@ meta_description:
           </li>
         </ul>
       </div>
-      <p class="work-text">Art direction and design for Aria award winning Sydney band, The Jezabels.<br/>Photography by Christopher Doyle, Pierre Toussaint and Robbie Powell.</p>
+      <p class="work-text">Art direction and design for Aria award winning band, The Jezabels.<br/>Photography by Christopher Doyle, Pierre Toussaint and Robbie Powell.</p>
     </div>
     <h3>Everything Begins</h3>
     <div>
@@ -77,7 +77,7 @@ meta_description:
           </li>
         </ul>
       </div>
-      <p class="work-text">Art direction and design for Melbourne musician Chet Faker&#039;s debut EP.<br/>Photography by Jefton Sungkar.</p>
+      <p class="work-text">Art direction and design for Chet Faker&#039;s debut EP.<br/>Photography by Jefton Sungkar.</p>
     </div>
     <h3>Bell Shakespeare 2012 Season</h3>
     <div>
@@ -100,7 +100,7 @@ meta_description:
           </li>
         </ul>
       </div>
-      <p class="work-text">Art Direction Typography and Design for Bell Shakespeare&#039;s 2012 Season.<br/>Designed with Joao Peres at Interbrand, Sydney.</p>
+      <p class="work-text">Art direction, typography and design for Bell Shakespeare&#039;s 2012 Season.<br/>Designed with Joao Peres at Interbrand, Sydney.</p>
     </div>
     <h3>New Theatre</h3>
     <div>
@@ -158,12 +158,12 @@ meta_description:
           </li>
         </ul>
       </div>
-      <p class="work-text">Addressing the standard hurdles of changing jobs &ndash; secret meetings, awkward phone calls and absolute discretion &ndash; we conceived an identity that avoids all reference to recruitment whatsoever. Cloak &amp; Dagger: online emporium of coats and knives (and jobs).<br/>Designed with Jefton Sungkar at Interbrand, Sydney.</p>
+      <p class="work-text">A recruitment identity that avoids any reference to recruitment whatsoever –<br/>Cloak & Dagger: online emporium of coats and knives (and jobs).<br/>Designed with Jefton Sungkar at Interbrand, Sydney.</p>
     </div>
     <h3>Desktop Magazine</h3>
     <div>
       <img class="solo" src="/images/d01.jpg" />
-      <p class="work-text">A rotatable cover for Desktop Magazine's Music issue.</p>
+      <p class="work-text">A rotatable cover for Desktop Magazine&rsquo;s music issue.</p>
     </div>
     <h3>Holly</h3>
     <div>
@@ -177,7 +177,7 @@ meta_description:
           </li>
         </ul>
       </div>
-      <p class="work-text">Logomark for Holly, Sydney's oldest Digital Agency.</p>
+      <p class="work-text">Logomark for Holly, Sydney&rsquo;s oldest digital agency.</p>
     </div>
     <h3>Tourism Australia</h3>
     <div>
@@ -254,7 +254,7 @@ meta_description:
           </li>
         </ul>
       </div>
-      <p class="work-text">Posters for a Newtown based independent short film festival.</p>
+      <p class="work-text">Identity and posters for a Newtown based independent short film festival.</p>
     </div>
     <h3>SYO</h3>
     <div>
