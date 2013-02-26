@@ -165,20 +165,6 @@ meta_description:
       <img class="solo" src="/images/d01.jpg" />
       <p class="work-text">A rotatable cover for Desktop Magazine&rsquo;s music issue.</p>
     </div>
-    <h3>Holly</h3>
-    <div>
-      <div class="flexslider">
-        <ul class="slides">
-          <li>
-            <img src="/images/holly01.jpg" />
-          </li>
-          <li>
-            <img src="/images/holly02.jpg" />
-          </li>
-        </ul>
-      </div>
-      <p class="work-text">Logomark for Holly, Sydney&rsquo;s oldest digital agency.</p>
-    </div>
     <h3>Tourism Australia</h3>
     <div>
       <img class="solo" src="/images/ta01.jpg" />
@@ -256,7 +242,7 @@ meta_description:
       </div>
       <p class="work-text">Identity and posters for a Newtown based independent short film festival.</p>
     </div>
-    <h3>SYO</h3>
+    <h3>Sydney Youth Orchestra</h3>
     <div>
       <img class="solo" src="/images/SYO.jpg" />
       <p class="work-text">Logomark for the Sydney Youth Orchestra.<br/>Designed at Saatchi Design.</p>
