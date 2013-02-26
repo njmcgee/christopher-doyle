@@ -129,9 +129,11 @@ footer {
   margin: 0 auto;
   overflow: hidden;
   h3 {
+    margin: 0 auto;
     font-size: 22px;
     line-height: 30px;
     margin-bottom: 30px;
+    max-width: 630px;
   }
   .bio, .accolades {
     text-align: left;
