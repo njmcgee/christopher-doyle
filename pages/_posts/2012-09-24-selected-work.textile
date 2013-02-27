@@ -79,7 +79,7 @@ meta_description:
       </div>
       <p class="work-text">Art direction and design for Chet Faker&#039;s debut EP.<br/>Photography by Jefton Sungkar.</p>
     </div>
-    <h3>Bell Shakespeare 2012 Season</h3>
+    <h3>Bell Shakespeare Season 2013</h3>
     <div>
       <div class="flexslider">
         <ul class="slides">
@@ -100,7 +100,7 @@ meta_description:
           </li>
         </ul>
       </div>
-      <p class="work-text">Art direction, typography and design for Bell Shakespeare&#039;s 2012 Season.<br/>Designed with Joao Peres at Interbrand, Sydney.</p>
+      <p class="work-text">Art direction, typography and design for Bell Shakespeare&#039;s 2013 Season.<br/>Designed with Joao Peres at Interbrand, Sydney.</p>
     </div>
     <h3>New Theatre</h3>
     <div>
